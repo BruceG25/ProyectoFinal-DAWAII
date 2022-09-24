@@ -1,8 +1,7 @@
 # ProyectoFinal-DAWAII
 Proyecto Final sobre el tema de proyecto "Medi-Vet" de la materia Desarrollo de Aplicaciones Web Avanzado.
 
-# PROYECTO 
-  Software administrativo médico para consultorio veterinarios "Medi-Vet".
+Software administrativo médico para consultorio veterinarios "Medi-Vet".
 
 ## Acerca de Medi-Vet
 
@@ -41,7 +40,7 @@ Sistema administrativo médico para consultorio veterinarios "Medi-Vet", es un p
 
 1. Clonar el repositorio.
 ```
-$ gh repo clone Rafael1108/Proyecto-DAWII  
+$ gh repo clone BruceG25/ProyectoFinal-DAWAII
 ```
 2.  .
 3.   
